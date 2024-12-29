@@ -122,7 +122,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Payam Noor University",
-      logo: require("./assets/images/Payame_Noor_University_Logo.svg.png"),
+      logo: require("./assets/images/Payame_Noor_University_Logo.png"),
       subHeader: "Management",
       duration: "2006 - 2011",
       //desc: "Participated in the research of XXX and published 3 papers.",
